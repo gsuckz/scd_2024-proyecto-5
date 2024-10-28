@@ -18,7 +18,14 @@ $$\text{Sea f una funcion que describe la señal, f es de energia finita } \iff 
 
 Esta definicion excluye las señales infinitas en el tiempo (una sinusoidal eterna) y al impulso, todas las señales fisicas observadas son de energía finita.
 
-Una señal de energía finita 
+Una señal de energía finita, al ser limitada en el tiempo, sera ilimitada en frecuencia (aunque el cuadrado de su tranformada de Fourier sea integrable), como el proceso de hallar la antitransformada es similar al de la transformada, podemos ver que las señales limitadas en frecuencia, no lo estan en el tiempo.
+
+
+Es posible aproximar una fcion no limitada en frecuencia, por funcione que si lo esten.
+
+Capitulo 4 Gallager
+
+
 
 
 
