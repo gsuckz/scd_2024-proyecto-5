@@ -25,7 +25,7 @@ Es posible aproximar una fcion no limitada en frecuencia, por funcione que si lo
 
 Capitulo 4 Gallager
 
-
+Plancherel aproximacion energia 
 
 
 
